@@ -16,7 +16,7 @@ By creating a code, completely focused on the information provided by Steve, we 
 
 ### For year 2017:
 
-INSERT IMAGE 2017
+<img width="1440" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/78698456/109394320-6cf0b600-78f4-11eb-84d3-7208e49be14d.png">
 
 - Ticker DQ was the best option for investment. 
 - Ticker SEDG and ENPH also performed splendidly. 
@@ -25,7 +25,8 @@ INSERT IMAGE 2017
 
 ### For the year 2018:
 
-INSERT IMAGE 2018
+<img width="1440" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/78698456/109394322-6d894c80-78f4-11eb-9b44-352723115726.png">
+
 
 - The performance of all tickers changed notoriously. Tickers DQ and SEDG, which outstanded in 2017, performed negatively this year.
 - It was a bad year for return in general to all tickers and out of 12 tickers, only 2 performed positively. 
