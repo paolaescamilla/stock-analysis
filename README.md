@@ -18,25 +18,30 @@ By creating a code, completely focused on the information provided by Steve, we 
 
 INSERT IMAGE 2017
 
-- Ticker DQ was the best option for investment this year. 
+- Ticker DQ was the best option for investment. 
 - Ticker SEDG and ENPH also performed splendidly. 
-- Ticker TERP was not a suitable option for investment.
+- All tickers gave positive return with the exception of TERP which performed negatively.
 
 
 ### For the year 2018:
 
 INSERT IMAGE 2018
 
-- The performance of all tickers changed notoriously. Tickers DQ and SEDG performed negatively for its investors.
-- Even though ENPH decreased its return this year, it was able to bring positive return for its investors.
+- The performance of all tickers changed notoriously. Tickers DQ and SEDG, which outstanded in 2017, performed negatively this year.
+- It was a bad year for return in general to all tickers and out of 12 tickers, only 2 performed positively. 
+- Even though ENPH decreased its return this year it was still able to favorably reward its investors
 - Ticker RUN, which did not excelled in return in 2017, positions itself in year 2018 by giving a return to investors of 84%
 
 
-The recommendation for Steve is to reconsider his initial proposal to his parents of investing in DQ. 
+The recommendation for Steve is to reconsider his initial proposal to his parents of investing only in DQ. 
 
 Even though the ticker performed magnificently in 2017 the fact that by 2018 it decreased 82% tells us the high volatility and risk that it encompasses.
 
-It would be suggested for Steve to explore further tickers ENPH and RUN. For the first, the return in 2018 was lower than the one given in 2017 however it was still a positive return. For the later, in year 2017 it only offer 5% return but for 2018 the value increased greatly to offer 84% return to investors.
+It would be suggested for Steve to explore further tickers ENPH and RUN. 
+
+For the first, the return in 2018 was lower than the one given in 2017 however it was still a positive return. For the later, in year 2017 it only offer 5% return but for 2018 the value increased greatly to offer 84% return to investors. 
+
+Particularly for ticker RUN it could be said that it a more low to moderate risk.
 
 
 ## Summary
