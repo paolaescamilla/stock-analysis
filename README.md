@@ -16,7 +16,7 @@ By creating a code, completely focused on the information provided by Steve, we 
 
 ### For year 2017:
 
-INSERT IMAGE 2017
+<img width="1440" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/78698456/109394320-6cf0b600-78f4-11eb-84d3-7208e49be14d.png">
 
 - Ticker DQ was the best option for investment this year. 
 - Ticker SEDG and ENPH also performed splendidly. 
