@@ -25,7 +25,8 @@ By creating a code, completely focused on the information provided by Steve, we 
 
 ### For the year 2018:
 
-INSERT IMAGE 2018
+<img width="1440" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/78698456/109394322-6d894c80-78f4-11eb-9b44-352723115726.png">
+
 
 - The performance of all tickers changed notoriously. Tickers DQ and SEDG performed negatively for its investors.
 - Even though ENPH decreased its return this year, it was able to bring positive return for its investors.
